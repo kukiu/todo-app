@@ -232,7 +232,9 @@ function App() {
               );
             })}
         </div>
+
       </div>
+      <footer style={{textAlign:"center",margin:"5px"}}>Created By Shaurya Agrawal</footer>
     </div>
   );
 }
